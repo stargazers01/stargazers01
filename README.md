@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![kururing](kururin-kuru-kuru.gif)
 
 # 💫 About Me:
