@@ -1,6 +1,5 @@
-![kururing](kururin-kuru-kuru.gif)
-
 # 💫 About Me:
+![kururing](kururin-kuru-kuru.gif)
 just a newbie programmer/developer
 
 
